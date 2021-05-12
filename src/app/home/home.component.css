@@ -1,0 +1,17 @@
+td {
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px 10px 10px 10px;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+.fill {
+    background-color: black;
+}
+
+.noFill {
+    background-color: inherit;
+}
